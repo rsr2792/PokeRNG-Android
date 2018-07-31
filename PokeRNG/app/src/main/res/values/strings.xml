@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PokeRNG</string>
+    <string name="app_tools">Tools</string>
+    <string name="action_settings">Settings</string>
+    <string name="gen_3_rse_long">Ruby/Sapphire/Emerald</string>
+    <string name="gen_4_dpp_long">Diamond/Pearl/Platinum</string>
+    <string name="gen_4_hgss_long">HeartGold/SoulSilver</string>
+    <string name="gen_5_bw_long">Black/White</string>
+    <string name="gen_5_b2w2_long">Black 2/White 2</string>
+    <string name="gen_6_xy_long">X / Y</string>
+    <string name="gen_6_oras_long">OmegaRuby / AlphaSapphire</string>
+    <string name="gen_7_sm_long">Sun / Moon</string>
+    <string name="gen_7_usum_long">Ultra Sun / Ultra Moon</string>
+</resources>
